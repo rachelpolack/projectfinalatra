@@ -1,0 +1,18 @@
+.header{
+    color:purple;
+   margin-top:20px;
+    font-family: 'Caveat', cursive;
+    text-align:center;
+    padding:20px;
+    background-color: rgb(197, 169, 169);
+    border-radius: 50px;
+}
+.link{
+    text-align:center;
+    padding-bottom: 7px;
+    font-size:22px;
+    background-color: rgb(197, 169, 169);
+    border-radius: 50px;
+    margin-bottom: 7px;
+    
+}

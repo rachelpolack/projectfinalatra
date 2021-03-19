@@ -1,0 +1,22 @@
+.bodyh{
+    height:50px;
+}
+.header{
+    color:purple;
+   margin-top:20px;
+    font-family: 'Caveat', cursive;
+    text-align:center;
+    padding:20px;
+    background-color: rgb(197, 169, 169);
+    border-radius: 50px;
+}
+
+.new{
+    padding:10px;
+    margin:10px 10px 10px 10px;
+    box-shadow: 5px 5px 10px grey;
+    font-size:25px;
+    color:purple;
+    text-align: center;
+}
+
